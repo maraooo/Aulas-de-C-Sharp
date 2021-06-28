@@ -1,0 +1,13 @@
+C:\Projetos\Quarto_While\Quarto_While\bin\Debug\netcoreapp3.1\Quarto_While.exe
+C:\Projetos\Quarto_While\Quarto_While\bin\Debug\netcoreapp3.1\Quarto_While.deps.json
+C:\Projetos\Quarto_While\Quarto_While\bin\Debug\netcoreapp3.1\Quarto_While.runtimeconfig.json
+C:\Projetos\Quarto_While\Quarto_While\bin\Debug\netcoreapp3.1\Quarto_While.runtimeconfig.dev.json
+C:\Projetos\Quarto_While\Quarto_While\bin\Debug\netcoreapp3.1\Quarto_While.dll
+C:\Projetos\Quarto_While\Quarto_While\bin\Debug\netcoreapp3.1\Quarto_While.pdb
+C:\Projetos\Quarto_While\Quarto_While\obj\Debug\netcoreapp3.1\Quarto_While.csproj.AssemblyReference.cache
+C:\Projetos\Quarto_While\Quarto_While\obj\Debug\netcoreapp3.1\Quarto_While.AssemblyInfoInputs.cache
+C:\Projetos\Quarto_While\Quarto_While\obj\Debug\netcoreapp3.1\Quarto_While.AssemblyInfo.cs
+C:\Projetos\Quarto_While\Quarto_While\obj\Debug\netcoreapp3.1\Quarto_While.csproj.CoreCompileInputs.cache
+C:\Projetos\Quarto_While\Quarto_While\obj\Debug\netcoreapp3.1\Quarto_While.dll
+C:\Projetos\Quarto_While\Quarto_While\obj\Debug\netcoreapp3.1\Quarto_While.pdb
+C:\Projetos\Quarto_While\Quarto_While\obj\Debug\netcoreapp3.1\Quarto_While.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Setimo_POO_Classe", "Setimo_POO_Classe\Setimo_POO_Classe.csproj", "{EAC21A57-2B11-4678-9627-A26BD1E7376D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC21A57-2B11-4678-9627-A26BD1E7376D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC21A57-2B11-4678-9627-A26BD1E7376D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC21A57-2B11-4678-9627-A26BD1E7376D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC21A57-2B11-4678-9627-A26BD1E7376D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77193CA6-AD35-4D5E-9EC3-7B87B3AC2D0E}
+	EndGlobalSection
+EndGlobal

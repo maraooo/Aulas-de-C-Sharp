@@ -1,0 +1,13 @@
+C:\Projetos\Quinto_For\Quinto_For\bin\Debug\netcoreapp3.1\Quinto_For.exe
+C:\Projetos\Quinto_For\Quinto_For\bin\Debug\netcoreapp3.1\Quinto_For.deps.json
+C:\Projetos\Quinto_For\Quinto_For\bin\Debug\netcoreapp3.1\Quinto_For.runtimeconfig.json
+C:\Projetos\Quinto_For\Quinto_For\bin\Debug\netcoreapp3.1\Quinto_For.runtimeconfig.dev.json
+C:\Projetos\Quinto_For\Quinto_For\bin\Debug\netcoreapp3.1\Quinto_For.dll
+C:\Projetos\Quinto_For\Quinto_For\bin\Debug\netcoreapp3.1\Quinto_For.pdb
+C:\Projetos\Quinto_For\Quinto_For\obj\Debug\netcoreapp3.1\Quinto_For.csproj.AssemblyReference.cache
+C:\Projetos\Quinto_For\Quinto_For\obj\Debug\netcoreapp3.1\Quinto_For.AssemblyInfoInputs.cache
+C:\Projetos\Quinto_For\Quinto_For\obj\Debug\netcoreapp3.1\Quinto_For.AssemblyInfo.cs
+C:\Projetos\Quinto_For\Quinto_For\obj\Debug\netcoreapp3.1\Quinto_For.csproj.CoreCompileInputs.cache
+C:\Projetos\Quinto_For\Quinto_For\obj\Debug\netcoreapp3.1\Quinto_For.dll
+C:\Projetos\Quinto_For\Quinto_For\obj\Debug\netcoreapp3.1\Quinto_For.pdb
+C:\Projetos\Quinto_For\Quinto_For\obj\Debug\netcoreapp3.1\Quinto_For.genruntimeconfig.cache

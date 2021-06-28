@@ -1,0 +1,13 @@
+C:\Projetos\Setimo_POO_Classe\Setimo_POO_Classe\bin\Debug\netcoreapp3.1\Setimo_POO_Classe.exe
+C:\Projetos\Setimo_POO_Classe\Setimo_POO_Classe\bin\Debug\netcoreapp3.1\Setimo_POO_Classe.deps.json
+C:\Projetos\Setimo_POO_Classe\Setimo_POO_Classe\bin\Debug\netcoreapp3.1\Setimo_POO_Classe.runtimeconfig.json
+C:\Projetos\Setimo_POO_Classe\Setimo_POO_Classe\bin\Debug\netcoreapp3.1\Setimo_POO_Classe.runtimeconfig.dev.json
+C:\Projetos\Setimo_POO_Classe\Setimo_POO_Classe\bin\Debug\netcoreapp3.1\Setimo_POO_Classe.dll
+C:\Projetos\Setimo_POO_Classe\Setimo_POO_Classe\bin\Debug\netcoreapp3.1\Setimo_POO_Classe.pdb
+C:\Projetos\Setimo_POO_Classe\Setimo_POO_Classe\obj\Debug\netcoreapp3.1\Setimo_POO_Classe.csproj.AssemblyReference.cache
+C:\Projetos\Setimo_POO_Classe\Setimo_POO_Classe\obj\Debug\netcoreapp3.1\Setimo_POO_Classe.AssemblyInfoInputs.cache
+C:\Projetos\Setimo_POO_Classe\Setimo_POO_Classe\obj\Debug\netcoreapp3.1\Setimo_POO_Classe.AssemblyInfo.cs
+C:\Projetos\Setimo_POO_Classe\Setimo_POO_Classe\obj\Debug\netcoreapp3.1\Setimo_POO_Classe.csproj.CoreCompileInputs.cache
+C:\Projetos\Setimo_POO_Classe\Setimo_POO_Classe\obj\Debug\netcoreapp3.1\Setimo_POO_Classe.dll
+C:\Projetos\Setimo_POO_Classe\Setimo_POO_Classe\obj\Debug\netcoreapp3.1\Setimo_POO_Classe.pdb
+C:\Projetos\Setimo_POO_Classe\Setimo_POO_Classe\obj\Debug\netcoreapp3.1\Setimo_POO_Classe.genruntimeconfig.cache

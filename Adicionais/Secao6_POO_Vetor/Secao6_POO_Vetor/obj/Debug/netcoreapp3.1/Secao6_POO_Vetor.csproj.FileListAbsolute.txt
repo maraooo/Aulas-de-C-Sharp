@@ -1,0 +1,13 @@
+C:\Projetos\Secao6_POO_Vetor\Secao6_POO_Vetor\bin\Debug\netcoreapp3.1\Secao6_POO_Vetor.exe
+C:\Projetos\Secao6_POO_Vetor\Secao6_POO_Vetor\bin\Debug\netcoreapp3.1\Secao6_POO_Vetor.deps.json
+C:\Projetos\Secao6_POO_Vetor\Secao6_POO_Vetor\bin\Debug\netcoreapp3.1\Secao6_POO_Vetor.runtimeconfig.json
+C:\Projetos\Secao6_POO_Vetor\Secao6_POO_Vetor\bin\Debug\netcoreapp3.1\Secao6_POO_Vetor.runtimeconfig.dev.json
+C:\Projetos\Secao6_POO_Vetor\Secao6_POO_Vetor\bin\Debug\netcoreapp3.1\Secao6_POO_Vetor.dll
+C:\Projetos\Secao6_POO_Vetor\Secao6_POO_Vetor\bin\Debug\netcoreapp3.1\Secao6_POO_Vetor.pdb
+C:\Projetos\Secao6_POO_Vetor\Secao6_POO_Vetor\obj\Debug\netcoreapp3.1\Secao6_POO_Vetor.csproj.AssemblyReference.cache
+C:\Projetos\Secao6_POO_Vetor\Secao6_POO_Vetor\obj\Debug\netcoreapp3.1\Secao6_POO_Vetor.AssemblyInfoInputs.cache
+C:\Projetos\Secao6_POO_Vetor\Secao6_POO_Vetor\obj\Debug\netcoreapp3.1\Secao6_POO_Vetor.AssemblyInfo.cs
+C:\Projetos\Secao6_POO_Vetor\Secao6_POO_Vetor\obj\Debug\netcoreapp3.1\Secao6_POO_Vetor.csproj.CoreCompileInputs.cache
+C:\Projetos\Secao6_POO_Vetor\Secao6_POO_Vetor\obj\Debug\netcoreapp3.1\Secao6_POO_Vetor.dll
+C:\Projetos\Secao6_POO_Vetor\Secao6_POO_Vetor\obj\Debug\netcoreapp3.1\Secao6_POO_Vetor.pdb
+C:\Projetos\Secao6_POO_Vetor\Secao6_POO_Vetor\obj\Debug\netcoreapp3.1\Secao6_POO_Vetor.genruntimeconfig.cache

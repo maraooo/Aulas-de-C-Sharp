@@ -1,0 +1,13 @@
+C:\Projetos\Segundo\Segundo\bin\Debug\netcoreapp3.1\Segundo.exe
+C:\Projetos\Segundo\Segundo\bin\Debug\netcoreapp3.1\Segundo.deps.json
+C:\Projetos\Segundo\Segundo\bin\Debug\netcoreapp3.1\Segundo.runtimeconfig.json
+C:\Projetos\Segundo\Segundo\bin\Debug\netcoreapp3.1\Segundo.runtimeconfig.dev.json
+C:\Projetos\Segundo\Segundo\bin\Debug\netcoreapp3.1\Segundo.dll
+C:\Projetos\Segundo\Segundo\bin\Debug\netcoreapp3.1\Segundo.pdb
+C:\Projetos\Segundo\Segundo\obj\Debug\netcoreapp3.1\Segundo.csproj.AssemblyReference.cache
+C:\Projetos\Segundo\Segundo\obj\Debug\netcoreapp3.1\Segundo.AssemblyInfoInputs.cache
+C:\Projetos\Segundo\Segundo\obj\Debug\netcoreapp3.1\Segundo.AssemblyInfo.cs
+C:\Projetos\Segundo\Segundo\obj\Debug\netcoreapp3.1\Segundo.csproj.CoreCompileInputs.cache
+C:\Projetos\Segundo\Segundo\obj\Debug\netcoreapp3.1\Segundo.dll
+C:\Projetos\Segundo\Segundo\obj\Debug\netcoreapp3.1\Segundo.pdb
+C:\Projetos\Segundo\Segundo\obj\Debug\netcoreapp3.1\Segundo.genruntimeconfig.cache

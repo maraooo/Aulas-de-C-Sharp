@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Secao5_POO_Final/1.0.0": {
+        "runtime": {
+          "Secao5_POO_Final.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Secao5_POO_Final/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

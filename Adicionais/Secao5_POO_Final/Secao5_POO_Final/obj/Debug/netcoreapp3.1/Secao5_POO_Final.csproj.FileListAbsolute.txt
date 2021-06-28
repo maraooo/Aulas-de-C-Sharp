@@ -1,0 +1,13 @@
+C:\Projetos\Secao5_POO_Final\Secao5_POO_Final\bin\Debug\netcoreapp3.1\Secao5_POO_Final.exe
+C:\Projetos\Secao5_POO_Final\Secao5_POO_Final\bin\Debug\netcoreapp3.1\Secao5_POO_Final.deps.json
+C:\Projetos\Secao5_POO_Final\Secao5_POO_Final\bin\Debug\netcoreapp3.1\Secao5_POO_Final.runtimeconfig.json
+C:\Projetos\Secao5_POO_Final\Secao5_POO_Final\bin\Debug\netcoreapp3.1\Secao5_POO_Final.runtimeconfig.dev.json
+C:\Projetos\Secao5_POO_Final\Secao5_POO_Final\bin\Debug\netcoreapp3.1\Secao5_POO_Final.dll
+C:\Projetos\Secao5_POO_Final\Secao5_POO_Final\bin\Debug\netcoreapp3.1\Secao5_POO_Final.pdb
+C:\Projetos\Secao5_POO_Final\Secao5_POO_Final\obj\Debug\netcoreapp3.1\Secao5_POO_Final.csproj.AssemblyReference.cache
+C:\Projetos\Secao5_POO_Final\Secao5_POO_Final\obj\Debug\netcoreapp3.1\Secao5_POO_Final.AssemblyInfoInputs.cache
+C:\Projetos\Secao5_POO_Final\Secao5_POO_Final\obj\Debug\netcoreapp3.1\Secao5_POO_Final.AssemblyInfo.cs
+C:\Projetos\Secao5_POO_Final\Secao5_POO_Final\obj\Debug\netcoreapp3.1\Secao5_POO_Final.csproj.CoreCompileInputs.cache
+C:\Projetos\Secao5_POO_Final\Secao5_POO_Final\obj\Debug\netcoreapp3.1\Secao5_POO_Final.dll
+C:\Projetos\Secao5_POO_Final\Secao5_POO_Final\obj\Debug\netcoreapp3.1\Secao5_POO_Final.pdb
+C:\Projetos\Secao5_POO_Final\Secao5_POO_Final\obj\Debug\netcoreapp3.1\Secao5_POO_Final.genruntimeconfig.cache

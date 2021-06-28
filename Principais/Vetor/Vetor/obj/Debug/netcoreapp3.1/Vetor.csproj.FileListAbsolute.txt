@@ -1,0 +1,13 @@
+C:\Projetos\Vetor\Vetor\bin\Debug\netcoreapp3.1\Vetor.exe
+C:\Projetos\Vetor\Vetor\bin\Debug\netcoreapp3.1\Vetor.deps.json
+C:\Projetos\Vetor\Vetor\bin\Debug\netcoreapp3.1\Vetor.runtimeconfig.json
+C:\Projetos\Vetor\Vetor\bin\Debug\netcoreapp3.1\Vetor.runtimeconfig.dev.json
+C:\Projetos\Vetor\Vetor\bin\Debug\netcoreapp3.1\Vetor.dll
+C:\Projetos\Vetor\Vetor\bin\Debug\netcoreapp3.1\Vetor.pdb
+C:\Projetos\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.csproj.AssemblyReference.cache
+C:\Projetos\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.AssemblyInfoInputs.cache
+C:\Projetos\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.AssemblyInfo.cs
+C:\Projetos\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.csproj.CoreCompileInputs.cache
+C:\Projetos\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.dll
+C:\Projetos\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.pdb
+C:\Projetos\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.genruntimeconfig.cache

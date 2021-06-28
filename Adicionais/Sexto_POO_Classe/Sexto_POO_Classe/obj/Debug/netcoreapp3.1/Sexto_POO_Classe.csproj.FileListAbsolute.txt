@@ -1,0 +1,13 @@
+C:\Users\Usuário\source\repos\Sexto_POO_Classe\Sexto_POO_Classe\bin\Debug\netcoreapp3.1\Sexto_POO_Classe.exe
+C:\Users\Usuário\source\repos\Sexto_POO_Classe\Sexto_POO_Classe\bin\Debug\netcoreapp3.1\Sexto_POO_Classe.deps.json
+C:\Users\Usuário\source\repos\Sexto_POO_Classe\Sexto_POO_Classe\bin\Debug\netcoreapp3.1\Sexto_POO_Classe.runtimeconfig.json
+C:\Users\Usuário\source\repos\Sexto_POO_Classe\Sexto_POO_Classe\bin\Debug\netcoreapp3.1\Sexto_POO_Classe.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\Sexto_POO_Classe\Sexto_POO_Classe\bin\Debug\netcoreapp3.1\Sexto_POO_Classe.dll
+C:\Users\Usuário\source\repos\Sexto_POO_Classe\Sexto_POO_Classe\bin\Debug\netcoreapp3.1\Sexto_POO_Classe.pdb
+C:\Users\Usuário\source\repos\Sexto_POO_Classe\Sexto_POO_Classe\obj\Debug\netcoreapp3.1\Sexto_POO_Classe.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\Sexto_POO_Classe\Sexto_POO_Classe\obj\Debug\netcoreapp3.1\Sexto_POO_Classe.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\Sexto_POO_Classe\Sexto_POO_Classe\obj\Debug\netcoreapp3.1\Sexto_POO_Classe.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\Sexto_POO_Classe\Sexto_POO_Classe\obj\Debug\netcoreapp3.1\Sexto_POO_Classe.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Sexto_POO_Classe\Sexto_POO_Classe\obj\Debug\netcoreapp3.1\Sexto_POO_Classe.dll
+C:\Users\Usuário\source\repos\Sexto_POO_Classe\Sexto_POO_Classe\obj\Debug\netcoreapp3.1\Sexto_POO_Classe.pdb
+C:\Users\Usuário\source\repos\Sexto_POO_Classe\Sexto_POO_Classe\obj\Debug\netcoreapp3.1\Sexto_POO_Classe.genruntimeconfig.cache

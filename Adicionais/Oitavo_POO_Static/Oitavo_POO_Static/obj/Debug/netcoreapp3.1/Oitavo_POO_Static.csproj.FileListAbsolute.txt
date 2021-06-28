@@ -1,0 +1,13 @@
+C:\Projetos\Oitavo_POO_Static\Oitavo_POO_Static\bin\Debug\netcoreapp3.1\Oitavo_POO_Static.exe
+C:\Projetos\Oitavo_POO_Static\Oitavo_POO_Static\bin\Debug\netcoreapp3.1\Oitavo_POO_Static.deps.json
+C:\Projetos\Oitavo_POO_Static\Oitavo_POO_Static\bin\Debug\netcoreapp3.1\Oitavo_POO_Static.runtimeconfig.json
+C:\Projetos\Oitavo_POO_Static\Oitavo_POO_Static\bin\Debug\netcoreapp3.1\Oitavo_POO_Static.runtimeconfig.dev.json
+C:\Projetos\Oitavo_POO_Static\Oitavo_POO_Static\bin\Debug\netcoreapp3.1\Oitavo_POO_Static.dll
+C:\Projetos\Oitavo_POO_Static\Oitavo_POO_Static\bin\Debug\netcoreapp3.1\Oitavo_POO_Static.pdb
+C:\Projetos\Oitavo_POO_Static\Oitavo_POO_Static\obj\Debug\netcoreapp3.1\Oitavo_POO_Static.csproj.AssemblyReference.cache
+C:\Projetos\Oitavo_POO_Static\Oitavo_POO_Static\obj\Debug\netcoreapp3.1\Oitavo_POO_Static.AssemblyInfoInputs.cache
+C:\Projetos\Oitavo_POO_Static\Oitavo_POO_Static\obj\Debug\netcoreapp3.1\Oitavo_POO_Static.AssemblyInfo.cs
+C:\Projetos\Oitavo_POO_Static\Oitavo_POO_Static\obj\Debug\netcoreapp3.1\Oitavo_POO_Static.csproj.CoreCompileInputs.cache
+C:\Projetos\Oitavo_POO_Static\Oitavo_POO_Static\obj\Debug\netcoreapp3.1\Oitavo_POO_Static.dll
+C:\Projetos\Oitavo_POO_Static\Oitavo_POO_Static\obj\Debug\netcoreapp3.1\Oitavo_POO_Static.pdb
+C:\Projetos\Oitavo_POO_Static\Oitavo_POO_Static\obj\Debug\netcoreapp3.1\Oitavo_POO_Static.genruntimeconfig.cache
